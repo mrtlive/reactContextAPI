@@ -25,7 +25,7 @@ export const WeatherProvider = ({ children }) => {
   const getWeather = async () => {
     axios
       .get(
-        `https://api.openweathermap.org/data/2.5/forecast?q=${city}&appid=301d4e756d3dc4d13de0fd87247f8fe1&units=metric`
+        `https://api.openweathermap.org/data/2.5/forecast?q=${city}&appid={API_KEY}&units=metric`
       )
       .then((response) => {
         const weat = response.data;
