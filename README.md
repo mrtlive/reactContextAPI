@@ -1,4 +1,8 @@
-# OpenWeather API created with create react app for patika.dev homework
+# OpenWeather API created with create react app using react context api for patika.dev homework
+
+![image](https://user-images.githubusercontent.com/23610345/185237729-c1d85848-0505-449c-afe3-5f603d7bfec0.png)
+
+
 
 # Getting Started with Create React App
 
