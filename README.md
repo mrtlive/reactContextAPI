@@ -1,9 +1,3 @@
-# OpenWeather API created with create react app using react context api for patika.dev homework
-
-![image](https://user-images.githubusercontent.com/23610345/185237729-c1d85848-0505-449c-afe3-5f603d7bfec0.png)
-
-
-
 # React Weather App with OpenWeather API and Context API
 
 This repository contains a React weather app that utilizes the OpenWeather API for fetching weather data, and the Context API for state management. This app allows users to search for any city's weather information by entering the city name or zip code.
@@ -17,6 +11,9 @@ To run the app locally:
 3. Install dependencies by running `npm install`.
 4. Replace {API_KEY} `<your-api-key>. You can get an API key from [OpenWeather](https://openweathermap.org/api).
 5. Start the development server with `npm start`.
+
+![image](https://user-images.githubusercontent.com/23610345/185237729-c1d85848-0505-449c-afe3-5f603d7bfec0.png)
+
 
 ## Usage
 
